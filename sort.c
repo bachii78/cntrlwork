@@ -115,7 +115,6 @@ void quickSort(int* ar, int size) {
 	}
 }
 
-
 void countSort(int* ar, int size){
 	int countAr[1000];
 	for(int i = 0; i < 1000; i++){
@@ -145,4 +144,3 @@ void bubbleSort(int* ar, int size){
 		}
 	}
 }
-
