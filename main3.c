@@ -139,8 +139,6 @@ int TimeSelectionSort(int* ar, int size, int&flag){
 	return 0;
 }
 
-
-
 void Time(int start, int limit, int step){
 	for(int i = start; i <= limit; i += step){
 	std::cout << i << '\t';
