@@ -1,6 +1,6 @@
 #include <iostream>
 #include <time.h>
-#include "sort.h"
+#include "sort.hpp"
 #include <chrono>
 
 int flagBubble = 0;
