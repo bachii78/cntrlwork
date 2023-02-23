@@ -1,5 +1,5 @@
-#ifndef SORT_H_
-#define SORT_H_
+#ifndef SORT_HPP_
+#define SORT_HPP_
 #include <iostream>
 #include <time.h>
 #include <cstring>
