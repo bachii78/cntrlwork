@@ -1,4 +1,4 @@
-#include "sort.h"
+#include "sort.hpp"
 
 void showEl(const int* ar, int size, char delimited = ' ') {
 	for (int i = 0; i < size; i++) {
